@@ -1,4 +1,4 @@
-# DevSecOps & Cloud DevOps Roadmap Syllabus
+# DevSecOps & Cloud DevOps Roadmap Syllabus Done by FEB 2024
 
 ![RoadMap 2024](roadmap1.png)
 
